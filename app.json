@@ -1,0 +1,22 @@
+{
+  "appId": "miniapp.xr3EGI4kzVBmtTHEXA3D.internalplatform",
+  "name": "miniapp.xr3EGI4kzVBmtTHEXA3D.internalplatform",
+  "displayName": "Internal Platform",
+  "client": {
+    "ios": {
+      "installMode": "IMMEDIATELY",
+      "deploymentTarget": 51
+    },
+    "android": {
+      "installMode": "IMMEDIATELY",
+      "deploymentTarget": 51
+    }
+  },
+  "groupId": "xr3EGI4kzVBmtTHEXA3D",
+  "uploadToken": "U2FsdGVkX199S5cXlHg8KtLcNJm2o1jtjSjIVg8QecyQENiGa529yYM7Rar0eHBz4Kp3jjDr7LEmEP1ms9F5AViLH3PabWUkcqDhNKohzYI7GXmZfaTQmMZQk3uF+MS3ek7zPbsH2ZV8KCow05Z2vw==",
+  "cliToken": "U2FsdGVkX19zbrta/Rh2AcP0oAFMoLNXwa0f05Wqx/k/oEIe7iOggb7EK4716gcQayEhoeo9B2AYa19PQCuyNUSOWFJGcrDCgt24o4X4hpEOnVGUPH2mzkUHGlvu8Nq/",
+  "configuration_version": 1,
+  "permissions": [],
+  "support": {},
+  "bridgeMode": 2
+}
